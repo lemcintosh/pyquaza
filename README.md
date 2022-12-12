@@ -1,3 +1,7 @@
+<h1 align="center">
+<img src="/pyquazaLogo.png" width="452">
+</h1><br>
+
 **What is PyQuaza?**
 PyQuaza is a forecasting resource for amateur astronomers to optimize their stargazing experiences. 
 
